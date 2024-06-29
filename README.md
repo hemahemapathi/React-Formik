@@ -1,6 +1,6 @@
 REACT-FORMIK TASK :
     
-   -  This Library Management System Admin Dashboard project is designed to streamline the management of books and authors within a library setting. By leveraging React.js and Formik, it ensures robust form validation, enabling administrators to maintain accurate and organized library records effortlessly. This dashboard provides an intuitive user interface that supports essential CRUD (Create, Read, Update, Delete) operations for both books and authors, enhancing overall administrative efficiency in library management.
+   -   This Library Management System Admin Dashboard project is designed to streamline the management of books and authors within a library setting. By leveraging React.js and Formik, it ensures robust form validation, enabling administrators to maintain accurate and organized library records effortlessly. This dashboard provides an intuitive user interface that supports essential CRUD (Create, Read, Update, Delete) operations for both books and authors, enhancing overall administrative efficiency in library management.
 
 
 1. Features :
