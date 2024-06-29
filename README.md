@@ -17,13 +17,7 @@ REACT-FORMIK TASK :
    -   Styling : CSS or any preferred CSS-in-JS library (e.g., styled-components)
 
 
-3. Usage :
-
-   -   Once the server is running, open your browser and go to `http://localhost:3000` to access the admin dashboard.
-   -   Log in with admin credentials (if applicable) to access full functionality.
-
-
-4. License :
+3. License :
  
    -   This project is licensed under the [MIT License](link-to-license-file) - see the LICENSE.md file for details.
 
